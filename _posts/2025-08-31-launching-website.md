@@ -28,18 +28,18 @@ In general, I plan to work on the site’s color design, making it more in my st
 Everyone wants to make their site, their project, a special place, though I myself do not yet know exactly what that means.
 I surely plan the following things, but how long they will take, I cannot even imagine:
 
-Improve the site:
-1.1 Improve the style
-1.2 Fill the site with content
-1.3 Develop what is necessary
-1.4 Redesign the logo
+1. Improve the site  
+   - Improve the style  
+   - Fill the site with content  
+   - Develop what is necessary  
+   - Redesign the logo  
 
-Finish the book:
-2.1 Finish writing
-2.2 Publish
+2. Finish the book  
+   - Finish writing  
+   - Publish  
 
-Develop next plans:
-3.1 Really? Do I need next plans?
+3. Develop next plans  
+   - Really? Do I need next plans?  
 
 ## Words of thanks
 Thank you very much, if you already read this.
