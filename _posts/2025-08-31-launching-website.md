@@ -50,5 +50,3 @@ There were many themes I looked through, but besides writing I have a technical 
 That is all for today — more is coming!  
 
 Have a good time!
-
-In general, this is what I have decided for now.
